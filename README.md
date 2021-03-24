@@ -1,5 +1,8 @@
 # DS3231_RLC_Clock_Modul_With_Arduino
 
+Detay Link: 
+
+https://www.munirturk.com.tr/arduino-ile-ds3231-rlc-saat-modulunun-kullanimi/
 
 Video Link:
 
